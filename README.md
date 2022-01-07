@@ -25,7 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## SCREENSHOTS
 
 |
-<img src="https://ibb.co/VDW6tRx"width="450">
+<img src="https://i.ibb.co/pZvqxcQ/Screenshot-12.png" width="700">
 |
 
 
